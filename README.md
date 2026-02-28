@@ -36,7 +36,7 @@ When I'm not studying or analyzing system logs, you can usually find me:
 
 ### 📫 Let's Connect
 * **LinkedIn:** www.linkedin.com/in/kryster-limpin
-* **Portfolio:** [Link to your Website/Portfolio]
+* **Portfolio:** 
 
 ---
 *"There is no patch for human stupidity."* — *DEF CON proverb*
